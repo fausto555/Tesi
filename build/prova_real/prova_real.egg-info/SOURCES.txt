@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+prova_real/__init__.py
+prova_real/gesture_rec.py
+prova_real/manager_node.py
+prova_real/manager_node_try.py
+prova_real/pose_track.py
+prova_real/realsense_sub.py
+prova_real.egg-info/PKG-INFO
+prova_real.egg-info/SOURCES.txt
+prova_real.egg-info/dependency_links.txt
+prova_real.egg-info/entry_points.txt
+prova_real.egg-info/requires.txt
+prova_real.egg-info/top_level.txt
+prova_real.egg-info/zip-safe
+resource/prova_real

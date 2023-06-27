@@ -1,0 +1,19 @@
+[1.958s] Invoking command in '/home/fausto/realsense_prova/build/prova_real': PYTHONPATH=/home/fausto/realsense_prova/build/prova_real/prefix_override:/home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/fausto/realsense_prova/build/prova_real/build --no-deps install_data
+[2.433s] running develop
+[2.593s] running egg_info
+[2.593s] writing prova_real.egg-info/PKG-INFO
+[2.593s] writing dependency_links to prova_real.egg-info/dependency_links.txt
+[2.593s] writing entry points to prova_real.egg-info/entry_points.txt
+[2.593s] writing requirements to prova_real.egg-info/requires.txt
+[2.593s] writing top-level names to prova_real.egg-info/top_level.txt
+[2.595s] reading manifest file 'prova_real.egg-info/SOURCES.txt'
+[2.595s] writing manifest file 'prova_real.egg-info/SOURCES.txt'
+[2.596s] running build_ext
+[2.597s] Creating /home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages/prova-real.egg-link (link to .)
+[2.597s] Installing gesture_rec script to /home/fausto/realsense_prova/install/prova_real/lib/prova_real
+[2.597s] Installing manager_node script to /home/fausto/realsense_prova/install/prova_real/lib/prova_real
+[2.598s] Installing realsense_sub script to /home/fausto/realsense_prova/install/prova_real/lib/prova_real
+[2.598s] 
+[2.598s] Installed /home/fausto/realsense_prova/build/prova_real
+[2.598s] running install_data
+[2.619s] Invoked command in '/home/fausto/realsense_prova/build/prova_real' returned '0': PYTHONPATH=/home/fausto/realsense_prova/build/prova_real/prefix_override:/home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/fausto/realsense_prova/build/prova_real/build --no-deps install_data

@@ -1,0 +1,18 @@
+[1.951s] Invoking command in '/home/fausto/realsense_prova/build/prova_real': PYTHONPATH=/home/fausto/realsense_prova/build/prova_real/prefix_override:/home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/fausto/realsense_prova/build/prova_real/build --no-deps install_data
+[2.424s] running develop
+[2.786s] running egg_info
+[2.786s] writing prova_real.egg-info/PKG-INFO
+[2.786s] writing dependency_links to prova_real.egg-info/dependency_links.txt
+[2.787s] writing entry points to prova_real.egg-info/entry_points.txt
+[2.787s] writing requirements to prova_real.egg-info/requires.txt
+[2.787s] writing top-level names to prova_real.egg-info/top_level.txt
+[2.788s] reading manifest file 'prova_real.egg-info/SOURCES.txt'
+[2.853s] writing manifest file 'prova_real.egg-info/SOURCES.txt'
+[2.858s] running build_ext
+[2.859s] Creating /home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages/prova-real.egg-link (link to .)
+[2.861s] Installing realsense_sub script to /home/fausto/realsense_prova/install/prova_real/lib/prova_real
+[2.862s] 
+[2.863s] Installed /home/fausto/realsense_prova/build/prova_real
+[2.863s] running install_data
+[2.863s] copying package.xml -> /home/fausto/realsense_prova/install/prova_real/share/prova_real
+[3.003s] Invoked command in '/home/fausto/realsense_prova/build/prova_real' returned '0': PYTHONPATH=/home/fausto/realsense_prova/build/prova_real/prefix_override:/home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/fausto/realsense_prova/build/prova_real/build --no-deps install_data

@@ -1,0 +1,5 @@
+[console_scripts]
+gesture_rec = prova_real.gesture_rec:main
+manager_node = prova_real.manager_node:main
+realsense_sub = prova_real.realsense_sub:main
+

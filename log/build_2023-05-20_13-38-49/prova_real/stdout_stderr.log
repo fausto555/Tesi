@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating prova_real.egg-info
+writing prova_real.egg-info/PKG-INFO
+writing dependency_links to prova_real.egg-info/dependency_links.txt
+writing entry points to prova_real.egg-info/entry_points.txt
+writing requirements to prova_real.egg-info/requires.txt
+writing top-level names to prova_real.egg-info/top_level.txt
+writing manifest file 'prova_real.egg-info/SOURCES.txt'
+reading manifest file 'prova_real.egg-info/SOURCES.txt'
+writing manifest file 'prova_real.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages/prova-real.egg-link (link to .)
+Installing realsense_sub script to /home/fausto/realsense_prova/install/prova_real/lib/prova_real
+
+Installed /home/fausto/realsense_prova/build/prova_real
+running install_data
+creating /home/fausto/realsense_prova/install/prova_real/share/ament_index
+creating /home/fausto/realsense_prova/install/prova_real/share/ament_index/resource_index
+creating /home/fausto/realsense_prova/install/prova_real/share/ament_index/resource_index/packages
+copying resource/prova_real -> /home/fausto/realsense_prova/install/prova_real/share/ament_index/resource_index/packages
+copying package.xml -> /home/fausto/realsense_prova/install/prova_real/share/prova_real

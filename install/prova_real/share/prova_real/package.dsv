@@ -1,0 +1,9 @@
+source;share/prova_real/hook/pythonpath.ps1
+source;share/prova_real/hook/pythonpath.dsv
+source;share/prova_real/hook/pythonpath.sh
+source;share/prova_real/hook/ament_prefix_path.ps1
+source;share/prova_real/hook/ament_prefix_path.dsv
+source;share/prova_real/hook/ament_prefix_path.sh
+source;../../build/prova_real/share/prova_real/hook/pythonpath_develop.ps1
+source;../../build/prova_real/share/prova_real/hook/pythonpath_develop.dsv
+source;../../build/prova_real/share/prova_real/hook/pythonpath_develop.sh

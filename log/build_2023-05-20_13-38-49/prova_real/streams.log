@@ -1,0 +1,24 @@
+[1.953s] Invoking command in '/home/fausto/realsense_prova/build/prova_real': PYTHONPATH=/home/fausto/realsense_prova/build/prova_real/prefix_override:/home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/fausto/realsense_prova/build/prova_real/build --no-deps install_data
+[2.413s] running develop
+[2.684s] running egg_info
+[2.684s] creating prova_real.egg-info
+[2.684s] writing prova_real.egg-info/PKG-INFO
+[2.684s] writing dependency_links to prova_real.egg-info/dependency_links.txt
+[2.685s] writing entry points to prova_real.egg-info/entry_points.txt
+[2.685s] writing requirements to prova_real.egg-info/requires.txt
+[2.685s] writing top-level names to prova_real.egg-info/top_level.txt
+[2.685s] writing manifest file 'prova_real.egg-info/SOURCES.txt'
+[2.686s] reading manifest file 'prova_real.egg-info/SOURCES.txt'
+[2.687s] writing manifest file 'prova_real.egg-info/SOURCES.txt'
+[2.688s] running build_ext
+[2.688s] Creating /home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages/prova-real.egg-link (link to .)
+[2.689s] Installing realsense_sub script to /home/fausto/realsense_prova/install/prova_real/lib/prova_real
+[2.689s] 
+[2.689s] Installed /home/fausto/realsense_prova/build/prova_real
+[2.689s] running install_data
+[2.689s] creating /home/fausto/realsense_prova/install/prova_real/share/ament_index
+[2.689s] creating /home/fausto/realsense_prova/install/prova_real/share/ament_index/resource_index
+[2.689s] creating /home/fausto/realsense_prova/install/prova_real/share/ament_index/resource_index/packages
+[2.689s] copying resource/prova_real -> /home/fausto/realsense_prova/install/prova_real/share/ament_index/resource_index/packages
+[2.689s] copying package.xml -> /home/fausto/realsense_prova/install/prova_real/share/prova_real
+[2.710s] Invoked command in '/home/fausto/realsense_prova/build/prova_real' returned '0': PYTHONPATH=/home/fausto/realsense_prova/build/prova_real/prefix_override:/home/fausto/realsense_prova/install/prova_real/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/fausto/realsense_prova/build/prova_real/build --no-deps install_data
